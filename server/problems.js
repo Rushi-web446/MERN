@@ -4,6 +4,7 @@ import dotenv from "dotenv";
 
 dotenv.config();
 
+
 // MongoDB model
 const problemSchema = new mongoose.Schema({
   id: Number,
@@ -13,6 +14,7 @@ const problemSchema = new mongoose.Schema({
   difficulty: String,
   acceptance_rate: String
 });
+
 
 const Problem = mongoose.model("Problem", problemSchema);
 
