@@ -3,6 +3,13 @@
 A full-stack web application to **organize coding problems** from LeetCode, Codeforces, and Maang.in.  
 This dashboard pairs with the Chrome Extension to form a seamless problem-management ecosystem.
 
+## Chrome Extension  
+**Repo:** [My_Crome_Extention](https://github.com/Rushi-web446/My_Crome_Extention)  
+
+- Instantly **bookmark coding problems** directly from problem pages.  
+- Store problems with metadata (platform, difficulty, notes).  
+- Secure local storage + seamless sync with web dashboard.  
+
 ---
 
 
