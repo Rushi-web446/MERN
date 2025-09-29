@@ -5,21 +5,6 @@ This dashboard pairs with the Chrome Extension to form a seamless problem-manage
 
 ---
 
-## Table of Contents
-- [Highlights](#highlights)
-- [Features](#features)
-- [How it works](#how-it-works)
-- [Tech Stack](#tech-stack)
-- [Folder Structure](#folder-structure)
-- [Setup & Installation](#setup--installation)
-- [Environment Variables](#environment-variables)
-- [API Examples](#api-examples)
-- [Email Scheduling (Daily Practice Reminders)](#email-scheduling-daily-practice-reminders)
-- [Screenshots / Demo](#screenshots--demo)
-- [Contributing](#contributing)
-- [License](#license)
-
----
 
 ## Highlights
 - Browser + web dashboard integration for bookmarking and tracking problems.
@@ -64,6 +49,8 @@ This dashboard pairs with the Chrome Extension to form a seamless problem-manage
 ```bash
 git clone https://github.com/Rushi-web446/MERN.git
 cd MERN
+
+
 2. Backend
 bash
 Copy code
@@ -75,6 +62,8 @@ cp .env.example .env
 npm run dev      # e.g. nodemon server.js
 # start worker for agenda jobs (in a separate terminal)
 node worker.js   # or `npm run worker` if script exists
+
+
 3. Frontend
 bash
 Copy code
