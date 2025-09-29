@@ -52,8 +52,8 @@ This dashboard pairs with the Chrome Extension to form a seamless problem-manage
 
 ## Setup & Installation
 
-### 1. Clone repo
 ```bash
+1. Clone repo
 git clone https://github.com/Rushi-web446/MERN.git
 cd MERN
 
